@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/peoplenet/precache-manifest.eaded63706aed106d4c405eb436d2944.js"
+  "/peoplenet/precache-manifest.6ccdb4be5050f13313772dcf0c231905.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "peoplenet-frontend"});
