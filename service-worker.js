@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/peoplenet/precache-manifest.6ccdb4be5050f13313772dcf0c231905.js"
+  "/peoplenet/precache-manifest.ee7edf72ea644d342829167492831adb.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "peoplenet-frontend"});
+workbox.core.setCacheNameDetails({prefix: "pineapple.net"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
