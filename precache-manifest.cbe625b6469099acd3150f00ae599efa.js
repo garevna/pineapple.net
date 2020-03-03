@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dbadeca9b6167aed0940",
+    "revision": "f990678bf15b56aef8af",
     "url": "/pineapple.net/css/app.ccf7e9db.css"
   },
   {
@@ -344,12 +344,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple.net/img/home-top-picture.aea009bc.png"
   },
   {
-    "revision": "f694f7e5e9a0fd293cc308c02acccaf3",
+    "revision": "dc497a0468a086162d3bed91a25c5b32",
     "url": "/pineapple.net/index.html"
   },
   {
-    "revision": "dbadeca9b6167aed0940",
-    "url": "/pineapple.net/js/app.83b850b5.js"
+    "revision": "f990678bf15b56aef8af",
+    "url": "/pineapple.net/js/app.10b4d7ef.js"
   },
   {
     "revision": "6a1e2f5a0ae3785e73be",
