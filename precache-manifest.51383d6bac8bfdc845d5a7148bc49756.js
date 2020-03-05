@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ddacbd9d909d45bc3f43",
-    "url": "/pineapple.net/css/app.63519001.css"
+    "revision": "dbadeca9b6167aed0940",
+    "url": "/pineapple.net/css/app.ccf7e9db.css"
   },
   {
-    "revision": "31fb3d373f1c06f753ab",
-    "url": "/pineapple.net/css/chunk-vendors.a6f2bea5.css"
+    "revision": "6a1e2f5a0ae3785e73be",
+    "url": "/pineapple.net/css/chunk-vendors.584af075.css"
   },
   {
     "revision": "b1534fde6a7bc348742f",
@@ -336,20 +336,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple.net/img/footer-top.711b4319.png"
   },
   {
+    "revision": "faf7c9f0078e90fb59330a4856880a81",
+    "url": "/pineapple.net/img/home-central-green-fone.faf7c9f0.png"
+  },
+  {
     "revision": "aea009bc487ec68a88d292ba0d943e15",
     "url": "/pineapple.net/img/home-top-picture.aea009bc.png"
   },
   {
-    "revision": "70ac601f4f0a7ccae5158d81596a333f",
+    "revision": "f694f7e5e9a0fd293cc308c02acccaf3",
     "url": "/pineapple.net/index.html"
   },
   {
-    "revision": "ddacbd9d909d45bc3f43",
-    "url": "/pineapple.net/js/app.fe6d4248.js"
+    "revision": "dbadeca9b6167aed0940",
+    "url": "/pineapple.net/js/app.83b850b5.js"
   },
   {
-    "revision": "31fb3d373f1c06f753ab",
-    "url": "/pineapple.net/js/chunk-vendors.8c21bb5c.js"
+    "revision": "6a1e2f5a0ae3785e73be",
+    "url": "/pineapple.net/js/chunk-vendors.80d772a5.js"
   },
   {
     "revision": "b1534fde6a7bc348742f",
