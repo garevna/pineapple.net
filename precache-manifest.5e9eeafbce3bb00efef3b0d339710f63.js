@@ -1,15 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ddacbd9d909d45bc3f43",
-    "url": "/pineapple.net/css/app.63519001.css"
+    "revision": "c3887813a484bab253a1",
+    "url": "/pineapple.net/css/app.bbdc2433.css"
   },
   {
-    "revision": "31fb3d373f1c06f753ab",
-    "url": "/pineapple.net/css/chunk-vendors.a6f2bea5.css"
+    "revision": "b8c0be28f2e71a0976bd",
+    "url": "/pineapple.net/css/chunk-vendors.82e1f8d9.css"
   },
   {
-    "revision": "b1534fde6a7bc348742f",
-    "url": "/pineapple.net/css/contact.ee148a83.css"
+    "revision": "382137ca48eabfa60d4b",
+    "url": "/pineapple.net/css/plans.c97ba661.css"
+  },
+  {
+    "revision": "d4df54fee424eeea2505",
+    "url": "/pineapple.net/css/research.ee148a83.css"
   },
   {
     "revision": "3ee088ebf456531c3c79586af139b62f",
@@ -332,28 +336,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple.net/img/4.f6382d7a.png"
   },
   {
-    "revision": "711b4319d560758d21d1f34652e5d7ff",
-    "url": "/pineapple.net/img/footer-top.711b4319.png"
-  },
-  {
     "revision": "aea009bc487ec68a88d292ba0d943e15",
     "url": "/pineapple.net/img/home-top-picture.aea009bc.png"
   },
   {
-    "revision": "70ac601f4f0a7ccae5158d81596a333f",
+    "revision": "e302d43d60235a3a739900867b5fffad",
     "url": "/pineapple.net/index.html"
   },
   {
-    "revision": "ddacbd9d909d45bc3f43",
-    "url": "/pineapple.net/js/app.fe6d4248.js"
+    "revision": "c3887813a484bab253a1",
+    "url": "/pineapple.net/js/app.35e07acd.js"
   },
   {
-    "revision": "31fb3d373f1c06f753ab",
-    "url": "/pineapple.net/js/chunk-vendors.8c21bb5c.js"
+    "revision": "b8c0be28f2e71a0976bd",
+    "url": "/pineapple.net/js/chunk-vendors.f0f8d7db.js"
   },
   {
-    "revision": "b1534fde6a7bc348742f",
-    "url": "/pineapple.net/js/contact.96040941.js"
+    "revision": "382137ca48eabfa60d4b",
+    "url": "/pineapple.net/js/plans.4cfd1e0a.js"
+  },
+  {
+    "revision": "d4df54fee424eeea2505",
+    "url": "/pineapple.net/js/research.7469c8c0.js"
   },
   {
     "revision": "371d09758aaea61329a7925a7560542b",
