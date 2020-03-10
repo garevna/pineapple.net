@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fbe14f715bf9038c8bb5",
-    "url": "/pineapple.net/css/app.0d729440.css"
+    "revision": "8570acb29dde7e7d1b99",
+    "url": "/pineapple.net/css/app.5c164619.css"
   },
   {
-    "revision": "b8c0be28f2e71a0976bd",
-    "url": "/pineapple.net/css/chunk-vendors.82e1f8d9.css"
+    "revision": "cd578bbe60c1b1f5cf82",
+    "url": "/pineapple.net/css/chunk-vendors.71e06d0a.css"
   },
   {
-    "revision": "382137ca48eabfa60d4b",
-    "url": "/pineapple.net/css/plans.c97ba661.css"
+    "revision": "12bbaab25c9794c6d979",
+    "url": "/pineapple.net/css/plans.2c61541d.css"
   },
   {
-    "revision": "d4df54fee424eeea2505",
+    "revision": "a4421cf8f724f7663ec7",
     "url": "/pineapple.net/css/research.ee148a83.css"
   },
   {
@@ -340,24 +340,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple.net/img/home-top-picture.aea009bc.png"
   },
   {
-    "revision": "a696a6693c4ce87e23eaaab3dd691bda",
+    "revision": "62773e7c90d4fd37afe6628c5429a4e7",
     "url": "/pineapple.net/index.html"
   },
   {
-    "revision": "fbe14f715bf9038c8bb5",
-    "url": "/pineapple.net/js/app.d3b1ee8c.js"
+    "revision": "8570acb29dde7e7d1b99",
+    "url": "/pineapple.net/js/app.9a773592.js"
   },
   {
-    "revision": "b8c0be28f2e71a0976bd",
-    "url": "/pineapple.net/js/chunk-vendors.f0f8d7db.js"
+    "revision": "cd578bbe60c1b1f5cf82",
+    "url": "/pineapple.net/js/chunk-vendors.f0dad251.js"
   },
   {
-    "revision": "382137ca48eabfa60d4b",
-    "url": "/pineapple.net/js/plans.4cfd1e0a.js"
+    "revision": "12bbaab25c9794c6d979",
+    "url": "/pineapple.net/js/plans.75c801b0.js"
   },
   {
-    "revision": "d4df54fee424eeea2505",
-    "url": "/pineapple.net/js/research.7469c8c0.js"
+    "revision": "a4421cf8f724f7663ec7",
+    "url": "/pineapple.net/js/research.66a4819f.js"
   },
   {
     "revision": "371d09758aaea61329a7925a7560542b",
