@@ -1,18 +1,22 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8570acb29dde7e7d1b99",
-    "url": "/pineapple.net/css/app.5c164619.css"
+    "revision": "23fcd1bf70cfe63a815c",
+    "url": "/pineapple.net/css/app.0f60e108.css"
   },
   {
-    "revision": "cd578bbe60c1b1f5cf82",
+    "revision": "45bdbd4d129eabb48713",
     "url": "/pineapple.net/css/chunk-vendors.71e06d0a.css"
   },
   {
-    "revision": "12bbaab25c9794c6d979",
-    "url": "/pineapple.net/css/plans.2c61541d.css"
+    "revision": "cfa329bb8f9e2b667048",
+    "url": "/pineapple.net/css/contact.f0c93e86.css"
   },
   {
-    "revision": "a4421cf8f724f7663ec7",
+    "revision": "2c6948e70eb99d53b0b1",
+    "url": "/pineapple.net/css/plans.2fca7630.css"
+  },
+  {
+    "revision": "b9161d86b789fc39312a",
     "url": "/pineapple.net/css/research.ee148a83.css"
   },
   {
@@ -340,24 +344,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple.net/img/home-top-picture.aea009bc.png"
   },
   {
-    "revision": "62773e7c90d4fd37afe6628c5429a4e7",
+    "revision": "433576d3db3c362db1ab2e823a2a984c",
     "url": "/pineapple.net/index.html"
   },
   {
-    "revision": "8570acb29dde7e7d1b99",
-    "url": "/pineapple.net/js/app.9a773592.js"
+    "revision": "23fcd1bf70cfe63a815c",
+    "url": "/pineapple.net/js/app.5dba7584.js"
   },
   {
-    "revision": "cd578bbe60c1b1f5cf82",
-    "url": "/pineapple.net/js/chunk-vendors.f0dad251.js"
+    "revision": "45bdbd4d129eabb48713",
+    "url": "/pineapple.net/js/chunk-vendors.e41301e9.js"
   },
   {
-    "revision": "12bbaab25c9794c6d979",
-    "url": "/pineapple.net/js/plans.75c801b0.js"
+    "revision": "cfa329bb8f9e2b667048",
+    "url": "/pineapple.net/js/contact.05e532f3.js"
   },
   {
-    "revision": "a4421cf8f724f7663ec7",
-    "url": "/pineapple.net/js/research.66a4819f.js"
+    "revision": "2c6948e70eb99d53b0b1",
+    "url": "/pineapple.net/js/plans.640ed6b7.js"
+  },
+  {
+    "revision": "b9161d86b789fc39312a",
+    "url": "/pineapple.net/js/research.f2b0e473.js"
   },
   {
     "revision": "371d09758aaea61329a7925a7560542b",
