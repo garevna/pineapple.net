@@ -344,7 +344,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple.net/img/home-top-picture.aea009bc.png"
   },
   {
-    "revision": "24ef321bed59d1f3a50f728ba2503498",
+    "revision": "e9b8da1814fc128045592f53fa85e763",
     "url": "/pineapple.net/index.html"
   },
   {
