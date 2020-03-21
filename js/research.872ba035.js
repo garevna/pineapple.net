@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["research"],{"45d3":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"about"})},s=[],c={name:"Research",components:{},data:function(){return{}}},r=c,u=t("2877"),o=Object(u["a"])(r,a,s,!1,null,null,null);n["default"]=o.exports}}]);
