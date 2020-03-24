@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pineapple.net/precache-manifest.6aa4cd789fec94c0e65b3d5f0e3cfb25.js"
+  "/pineapple.net/precache-manifest.87d0c3dc1f41ddd80788b350915d2417.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "pineapple.net"});
