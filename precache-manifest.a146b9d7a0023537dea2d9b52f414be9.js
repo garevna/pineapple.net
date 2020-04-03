@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e361e86e814e2600e2d0",
+    "revision": "921eae9396355f870339",
     "url": "/pineapple.net/css/app.cb06b6d8.css"
   },
   {
@@ -8,11 +8,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple.net/css/chunk-vendors.d1273101.css"
   },
   {
-    "revision": "8b2744f0c747509a442e",
+    "revision": "14d056c98b9843816a97",
     "url": "/pineapple.net/css/contact.3e267f38.css"
   },
   {
-    "revision": "ea04021f349984d8d7a6",
+    "revision": "68946f6aed43497b1f47",
     "url": "/pineapple.net/css/plans.ee5f51b2.css"
   },
   {
@@ -304,6 +304,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple.net/fonts/Gilroy-UltraLightItalic.woff"
   },
   {
+    "revision": "3f7f84c156d7fc89b83905fe8f2a2f8d",
+    "url": "/pineapple.net/fonts/manifest.json"
+  },
+  {
     "revision": "2d0a0d8f5f173be15a67aa084db94fe6",
     "url": "/pineapple.net/fonts/materialdesignicons-webfont.2d0a0d8f.eot"
   },
@@ -340,31 +344,31 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple.net/img/home-top-picture.aea009bc.png"
   },
   {
-    "revision": "ab7c51c6b05729fb51fc5a5b2a2e9246",
+    "revision": "bb99d49623d019672635ba0062ab3fc5",
     "url": "/pineapple.net/index.html"
   },
   {
-    "revision": "e361e86e814e2600e2d0",
-    "url": "/pineapple.net/js/app.2db18f43.js"
+    "revision": "921eae9396355f870339",
+    "url": "/pineapple.net/js/app.4c6963aa.js"
   },
   {
     "revision": "61998d2e26bab1e71557",
     "url": "/pineapple.net/js/chunk-vendors.09a07ff8.js"
   },
   {
-    "revision": "8b2744f0c747509a442e",
-    "url": "/pineapple.net/js/contact.282d3cc4.js"
+    "revision": "14d056c98b9843816a97",
+    "url": "/pineapple.net/js/contact.32eee8b8.js"
   },
   {
-    "revision": "ea04021f349984d8d7a6",
-    "url": "/pineapple.net/js/plans.388d8fb9.js"
+    "revision": "68946f6aed43497b1f47",
+    "url": "/pineapple.net/js/plans.8888934f.js"
   },
   {
-    "revision": "d9ba9e25972ae9205006",
-    "url": "/pineapple.net/js/research.872ba035.js"
+    "revision": "f4b1ec2b358da08460eb",
+    "url": "/pineapple.net/js/research.eebde0d8.js"
   },
   {
-    "revision": "371d09758aaea61329a7925a7560542b",
+    "revision": "db0bd3dc08a0949f13e6f30ae86370c3",
     "url": "/pineapple.net/manifest.json"
   },
   {
