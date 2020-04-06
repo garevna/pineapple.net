@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43ba51d06f94d58f3e21",
+    "revision": "2fcf62e5ab38c8af5168",
     "url": "/pineapple.net/css/app.26983261.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple.net/css/contact.3e267f38.css"
   },
   {
-    "revision": "6d583b253b5fe60998e9",
-    "url": "/pineapple.net/css/plans.5347f7ae.css"
+    "revision": "9e8bc633faa3697e504c",
+    "url": "/pineapple.net/css/plans.5d299127.css"
   },
   {
     "revision": "3ee088ebf456531c3c79586af139b62f",
@@ -348,12 +348,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple.net/img/logo.27a4d7df.svg"
   },
   {
-    "revision": "dee095c4a795d5dc51675b175392a6f5",
+    "revision": "0a9798caf652f4542c9a47efe78d4d45",
     "url": "/pineapple.net/index.html"
   },
   {
-    "revision": "43ba51d06f94d58f3e21",
-    "url": "/pineapple.net/js/app.a738d62e.js"
+    "revision": "2fcf62e5ab38c8af5168",
+    "url": "/pineapple.net/js/app.cf0ced21.js"
   },
   {
     "revision": "5945b77d2eec80076b0a",
@@ -364,8 +364,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple.net/js/contact.1e31ebe3.js"
   },
   {
-    "revision": "6d583b253b5fe60998e9",
-    "url": "/pineapple.net/js/plans.7c8f4afe.js"
+    "revision": "9e8bc633faa3697e504c",
+    "url": "/pineapple.net/js/plans.aa00eb0b.js"
   },
   {
     "revision": "f4b1ec2b358da08460eb",
