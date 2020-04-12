@@ -348,7 +348,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple.net/img/logo.c70254e5.svg"
   },
   {
-    "revision": "f01dc01b2adb57ada8a3fc23f83e1238",
+    "revision": "c9dd0a236cddd713fd4b68e01f32fe65",
     "url": "/pineapple.net/index.html"
   },
   {
