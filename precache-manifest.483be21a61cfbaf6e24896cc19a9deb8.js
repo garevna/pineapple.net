@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8479fc199cbef84bd26d",
-    "url": "/pineapple.net/css/app.cb427338.css"
+    "revision": "7cbad26f0fdfa790eadb",
+    "url": "/pineapple.net/css/app.c6a8179c.css"
   },
   {
     "revision": "5945b77d2eec80076b0a",
@@ -344,16 +344,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple.net/img/home-top-picture.aea009bc.png"
   },
   {
-    "revision": "27a4d7df9741078963df645885fec1d8",
-    "url": "/pineapple.net/img/logo.27a4d7df.svg"
+    "revision": "c70254e55d28af26c5f200932d060050",
+    "url": "/pineapple.net/img/logo.c70254e5.svg"
   },
   {
-    "revision": "1aa6e52ea0a2c1951a113d36476678df",
+    "revision": "f01dc01b2adb57ada8a3fc23f83e1238",
     "url": "/pineapple.net/index.html"
   },
   {
-    "revision": "8479fc199cbef84bd26d",
-    "url": "/pineapple.net/js/app.25b19c8f.js"
+    "revision": "7cbad26f0fdfa790eadb",
+    "url": "/pineapple.net/js/app.8810c6ae.js"
   },
   {
     "revision": "5945b77d2eec80076b0a",
