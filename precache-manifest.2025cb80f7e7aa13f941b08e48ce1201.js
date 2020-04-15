@@ -1,19 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7cbad26f0fdfa790eadb",
-    "url": "/pineapple.net/css/app.c6a8179c.css"
+    "revision": "2ff4e49987b148c3b151a000feaf1a44",
+    "url": "/pineapple.net/browserconfig.xml"
   },
   {
-    "revision": "5945b77d2eec80076b0a",
+    "revision": "a496086d4ff5d7feece2",
+    "url": "/pineapple.net/css/app.dadce524.css"
+  },
+  {
+    "revision": "f8751ec01a632c5bd5bf",
     "url": "/pineapple.net/css/chunk-vendors.d1273101.css"
   },
   {
-    "revision": "6cbab8cb833ca04f8d21",
-    "url": "/pineapple.net/css/contact.3e267f38.css"
+    "revision": "430c8e482ae6dea89c52",
+    "url": "/pineapple.net/css/contact.dfe1aee7.css"
   },
   {
-    "revision": "85129439ce159e804ae6",
-    "url": "/pineapple.net/css/plans.a80ec896.css"
+    "revision": "b9257d51183809ddb107",
+    "url": "/pineapple.net/css/plans.a913040b.css"
   },
   {
     "revision": "3ee088ebf456531c3c79586af139b62f",
@@ -348,24 +352,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple.net/img/logo.c70254e5.svg"
   },
   {
-    "revision": "c9dd0a236cddd713fd4b68e01f32fe65",
+    "revision": "3c1efa3b8a94e22bdda9c08f0b80fcf3",
     "url": "/pineapple.net/index.html"
   },
   {
-    "revision": "7cbad26f0fdfa790eadb",
-    "url": "/pineapple.net/js/app.8810c6ae.js"
+    "revision": "a496086d4ff5d7feece2",
+    "url": "/pineapple.net/js/app.94275520.js"
   },
   {
-    "revision": "5945b77d2eec80076b0a",
-    "url": "/pineapple.net/js/chunk-vendors.fa623f17.js"
+    "revision": "f8751ec01a632c5bd5bf",
+    "url": "/pineapple.net/js/chunk-vendors.5057a763.js"
   },
   {
-    "revision": "6cbab8cb833ca04f8d21",
-    "url": "/pineapple.net/js/contact.1e31ebe3.js"
+    "revision": "430c8e482ae6dea89c52",
+    "url": "/pineapple.net/js/contact.50e72710.js"
   },
   {
-    "revision": "85129439ce159e804ae6",
-    "url": "/pineapple.net/js/plans.f463d931.js"
+    "revision": "b9257d51183809ddb107",
+    "url": "/pineapple.net/js/plans.f1c0ca9f.js"
   },
   {
     "revision": "f4b1ec2b358da08460eb",
@@ -376,7 +380,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple.net/manifest.json"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "revision": "dc50fcbebdcb049a1c622758fd8eab82",
     "url": "/pineapple.net/robots.txt"
+  },
+  {
+    "revision": "8c376b0b635a009d2a59872028089061",
+    "url": "/pineapple.net/site.webmanifest"
   }
 ]);
