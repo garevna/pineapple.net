@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple.net/browserconfig.xml"
   },
   {
-    "revision": "a496086d4ff5d7feece2",
-    "url": "/pineapple.net/css/app.dadce524.css"
+    "revision": "e340d740db164aa3922f",
+    "url": "/pineapple.net/css/app.406b2557.css"
   },
   {
-    "revision": "f8751ec01a632c5bd5bf",
+    "revision": "5c2550afb3d206c869e4",
     "url": "/pineapple.net/css/chunk-vendors.d1273101.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple.net/css/contact.dfe1aee7.css"
   },
   {
-    "revision": "b9257d51183809ddb107",
-    "url": "/pineapple.net/css/plans.a913040b.css"
+    "revision": "8a46d9d0a87bc3e3ebf7",
+    "url": "/pineapple.net/css/plans.e7429e6f.css"
   },
   {
     "revision": "3ee088ebf456531c3c79586af139b62f",
@@ -352,24 +352,88 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pineapple.net/img/logo.c70254e5.svg"
   },
   {
-    "revision": "3c1efa3b8a94e22bdda9c08f0b80fcf3",
+    "revision": "64427e15ac5261f4a52128d53350bc94",
+    "url": "/pineapple.net/img/testimonials/1.jpg"
+  },
+  {
+    "revision": "b12f1b44479fe1aa0a45e59394180d63",
+    "url": "/pineapple.net/img/testimonials/10.png"
+  },
+  {
+    "revision": "5e31a29026b1e8afa447ee141802ff73",
+    "url": "/pineapple.net/img/testimonials/11.png"
+  },
+  {
+    "revision": "50cd42dfecce77f1862fe03dfe99f4ff",
+    "url": "/pineapple.net/img/testimonials/12.png"
+  },
+  {
+    "revision": "bde2502306971300e34b8d39ad8adca3",
+    "url": "/pineapple.net/img/testimonials/13.png"
+  },
+  {
+    "revision": "7b5a4655e9a28a9bca66df0032e7ba28",
+    "url": "/pineapple.net/img/testimonials/14.png"
+  },
+  {
+    "revision": "76c49b31dde860cc48a06e785c9aed1e",
+    "url": "/pineapple.net/img/testimonials/15.png"
+  },
+  {
+    "revision": "a7055035c5a5ac52b3705e1c650cbc43",
+    "url": "/pineapple.net/img/testimonials/2.jpg"
+  },
+  {
+    "revision": "e37a57d692b876c600a673e561b05c6d",
+    "url": "/pineapple.net/img/testimonials/3.jpg"
+  },
+  {
+    "revision": "0327ed81812baf95bbda07b71b81a12e",
+    "url": "/pineapple.net/img/testimonials/4.png"
+  },
+  {
+    "revision": "ca51aba41cbcf0e31ab7f55c2625af74",
+    "url": "/pineapple.net/img/testimonials/5.png"
+  },
+  {
+    "revision": "f634a0bacf523e74cab3e67419602783",
+    "url": "/pineapple.net/img/testimonials/6.png"
+  },
+  {
+    "revision": "867d82adf3b6c09b5f9d1b3246f1c814",
+    "url": "/pineapple.net/img/testimonials/7.png"
+  },
+  {
+    "revision": "bb68f71d86ff786d01e710fa628eb44c",
+    "url": "/pineapple.net/img/testimonials/8.png"
+  },
+  {
+    "revision": "38da7e779b5d3d6642b479f4bd3a15e7",
+    "url": "/pineapple.net/img/testimonials/9.png"
+  },
+  {
+    "revision": "64f3a7dd82f399db86d0911b3fe9c057",
+    "url": "/pineapple.net/img/testimonials/default.png"
+  },
+  {
+    "revision": "aa2a57159d03ab48ff18fe98c6c3cce9",
     "url": "/pineapple.net/index.html"
   },
   {
-    "revision": "a496086d4ff5d7feece2",
-    "url": "/pineapple.net/js/app.94275520.js"
+    "revision": "e340d740db164aa3922f",
+    "url": "/pineapple.net/js/app.84c8e6dd.js"
   },
   {
-    "revision": "f8751ec01a632c5bd5bf",
-    "url": "/pineapple.net/js/chunk-vendors.5057a763.js"
+    "revision": "5c2550afb3d206c869e4",
+    "url": "/pineapple.net/js/chunk-vendors.f3a137bf.js"
   },
   {
     "revision": "430c8e482ae6dea89c52",
     "url": "/pineapple.net/js/contact.50e72710.js"
   },
   {
-    "revision": "b9257d51183809ddb107",
-    "url": "/pineapple.net/js/plans.f1c0ca9f.js"
+    "revision": "8a46d9d0a87bc3e3ebf7",
+    "url": "/pineapple.net/js/plans.1c459b0a.js"
   },
   {
     "revision": "f4b1ec2b358da08460eb",
@@ -386,5 +450,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8c376b0b635a009d2a59872028089061",
     "url": "/pineapple.net/site.webmanifest"
+  },
+  {
+    "revision": "f551c5cd06ff6c5b92d140b5e1db5ca2",
+    "url": "/pineapple.net/testimonials/testimonials.json"
   }
 ]);
